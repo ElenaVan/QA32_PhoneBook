@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="tests.LoginTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-03T21:46:22" hostname="MBP-Irina" time="0.931">
+<testsuite name="tests.LoginTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-01-11T18:18:48" hostname="MBP-Irina" time="31.956">
   <properties/>
-  <testcase name="loginSuccessNew" classname="tests.LoginTests" time="0.931"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}) on port 9879
-Only local connections are allowed.
-Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
-ChromeDriver was started successfully.
-Jan 03, 2023 4:46:21 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: W3C
-]]></system-err>
+  <testcase name="loginNegativeTestWrongPassword" classname="tests.LoginTests" time="1.185"/>
+  <testcase name="loginSuccess" classname="tests.LoginTests" time="0.606"/>
+  <system-out><![CDATA[Wrong email or password
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
 </testsuite>
