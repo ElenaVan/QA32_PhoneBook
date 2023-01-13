@@ -8,6 +8,7 @@ import java.util.concurrent.TimeUnit;
 public class ApplicationManager {
     WebDriver wd;
     HelperUser helperUser;
+    HelperContact contact;
 
     public void init(){
         wd = new ChromeDriver();
@@ -15,6 +16,7 @@ public class ApplicationManager {
         wd.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         wd.navigate().to("https://telranedu.web.app/home");
         helperUser = new HelperUser(wd);
+        contact = new HelperContact(wd);
 
 
     }
@@ -25,4 +27,9 @@ public class ApplicationManager {
     public HelperUser getHelperUser() {
         return helperUser;
     }
+
+    public HelperContact contact(){
+        return contact;
+    }
 }
+

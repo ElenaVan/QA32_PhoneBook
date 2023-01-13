@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="tests.LoginTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-01-11T18:18:48" hostname="MBP-Irina" time="31.956">
-  <properties/>
-  <testcase name="loginNegativeTestWrongPassword" classname="tests.LoginTests" time="1.185"/>
-  <testcase name="loginSuccess" classname="tests.LoginTests" time="0.606"/>
-  <system-out><![CDATA[Wrong email or password
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

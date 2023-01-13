@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.AddContactTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-13T03:20:28" hostname="MBP-Irina" time="1.396">
+  <properties/>
+  <testcase name="addNewContactSuccess" classname="tests.AddContactTests" time="1.396"/>
+  <system-out><![CDATA[John1228
+123456781228
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
