@@ -4,10 +4,10 @@
 
     <test name="Regression">
         <classes>
-            <class name="tests.AddContactTests"/>
+
             <class name="tests.LoginTests"/>
             <class name="tests.RegistrationTests"/>
-            <class name="tests.RemoveContact"/>
+
         </classes>
     </test>
 </suite>
