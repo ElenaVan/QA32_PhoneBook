@@ -1,0 +1,5 @@
+16:01:59.924  INFO  manager.TestNgMyListener - onStart(ISuite suite)
+16:01:59.930  INFO  manager.TestNgMyListener - onStartGradle test
+16:01:59.950  INFO  manager.TestNgMyListener - onTestStart
+16:02:02.612  INFO  manager.TestNgMyListener - onFinish
+16:02:02.613  INFO  manager.TestNgMyListener - onFinish(ISuite suite)

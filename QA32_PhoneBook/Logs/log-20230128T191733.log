@@ -1,0 +1,160 @@
+19:17:35.707  INFO  manager.ApplicationManager - Tests start with ChromeDriver
+19:17:36.394  INFO  manager.ApplicationManager - The link is --> https://telranedu.web.app/home
+19:17:36.421  INFO  tests.TestBase - Start test--->removeAllContacts
+19:17:36.424  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //button[text()='Sign Out']
+19:17:41.492  INFO  manager.MyListener - 'The element with locator -->By.xpath: //button[text()='Sign Out'] <-- was found
+19:17:41.493  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: a[href='/login']
+19:17:41.506  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: a[href='/login'] <-- was found
+19:17:41.559  INFO  manager.MyListener - 'Start find ' element -->By.xpath: (//input[@placeholder='Email'])[1]
+19:17:41.571  INFO  manager.MyListener - 'The element with locator -->By.xpath: (//input[@placeholder='Email'])[1] <-- was found
+19:17:41.751  INFO  manager.MyListener - 'Start find ' element -->By.xpath: (//input[@placeholder='Password'])[1]
+19:17:41.763  INFO  manager.MyListener - 'The element with locator -->By.xpath: (//input[@placeholder='Password'])[1] <-- was found
+19:17:41.845  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: button[name='login']
+19:17:41.858  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: button[name='login'] <-- was found
+19:17:41.890  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:17:42.475  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:17:42.477  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:17:42.485  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:17:42.486  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:17:42.497  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:17:42.528  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //button[text()='Remove']
+19:17:42.541  INFO  manager.MyListener - 'The element with locator -->By.xpath: //button[text()='Remove'] <-- was found
+19:17:43.575  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:17:43.585  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:17:43.586  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:17:43.593  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:17:43.616  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //button[text()='Remove']
+19:17:43.625  INFO  manager.MyListener - 'The element with locator -->By.xpath: //button[text()='Remove'] <-- was found
+19:17:44.656  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:17:44.665  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:17:44.665  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:17:44.673  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:17:44.695  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //button[text()='Remove']
+19:17:44.703  INFO  manager.MyListener - 'The element with locator -->By.xpath: //button[text()='Remove'] <-- was found
+19:17:45.731  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:17:45.741  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:17:45.742  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:17:45.749  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:17:45.772  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //button[text()='Remove']
+19:17:45.780  INFO  manager.MyListener - 'The element with locator -->By.xpath: //button[text()='Remove'] <-- was found
+19:17:46.809  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:17:46.819  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:17:46.820  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:17:46.827  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:17:46.849  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //button[text()='Remove']
+19:17:46.858  INFO  manager.MyListener - 'The element with locator -->By.xpath: //button[text()='Remove'] <-- was found
+19:17:47.886  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:17:47.896  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:17:47.896  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:17:47.904  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:17:47.930  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //button[text()='Remove']
+19:17:47.938  INFO  manager.MyListener - 'The element with locator -->By.xpath: //button[text()='Remove'] <-- was found
+19:17:48.970  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:17:48.980  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:17:48.981  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:17:48.988  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:17:49.030  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //button[text()='Remove']
+19:17:49.056  INFO  manager.MyListener - 'The element with locator -->By.xpath: //button[text()='Remove'] <-- was found
+19:17:50.087  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:17:50.097  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:17:50.097  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:17:50.106  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:17:50.146  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //button[text()='Remove']
+19:17:50.170  INFO  manager.MyListener - 'The element with locator -->By.xpath: //button[text()='Remove'] <-- was found
+19:17:51.200  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:17:51.210  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:17:51.210  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:17:51.218  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:17:51.261  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //button[text()='Remove']
+19:17:51.287  INFO  manager.MyListener - 'The element with locator -->By.xpath: //button[text()='Remove'] <-- was found
+19:17:52.325  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:17:57.351  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:17:57.357  INFO  tests.TestBase - Start test--->removeOneContact
+19:17:57.358  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //button[text()='Sign Out']
+19:17:57.365  INFO  manager.MyListener - 'The element with locator -->By.xpath: //button[text()='Sign Out'] <-- was found
+19:17:57.366  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:18:02.397  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:18:02.398  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:18:07.438  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:18:07.445  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: a[href='/add']
+19:18:07.457  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: a[href='/add'] <-- was found
+19:18:07.499  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //input[@placeholder='Name']
+19:18:07.511  INFO  manager.MyListener - 'The element with locator -->By.xpath: //input[@placeholder='Name'] <-- was found
+19:18:07.628  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //input[@placeholder='Last Name']
+19:18:07.640  INFO  manager.MyListener - 'The element with locator -->By.xpath: //input[@placeholder='Last Name'] <-- was found
+19:18:07.716  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //input[@placeholder='Phone']
+19:18:07.728  INFO  manager.MyListener - 'The element with locator -->By.xpath: //input[@placeholder='Phone'] <-- was found
+19:18:07.810  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //input[@placeholder='email']
+19:18:07.821  INFO  manager.MyListener - 'The element with locator -->By.xpath: //input[@placeholder='email'] <-- was found
+19:18:07.906  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //input[@placeholder='Address']
+19:18:07.917  INFO  manager.MyListener - 'The element with locator -->By.xpath: //input[@placeholder='Address'] <-- was found
+19:18:07.993  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //input[@placeholder='description']
+19:18:08.004  INFO  manager.MyListener - 'The element with locator -->By.xpath: //input[@placeholder='description'] <-- was found
+19:18:08.090  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //b[text()='Save']
+19:18:08.101  INFO  manager.MyListener - 'The element with locator -->By.xpath: //b[text()='Save'] <-- was found
+19:18:08.157  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:18:08.286  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:18:08.287  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: a[href='/add']
+19:18:08.294  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: a[href='/add'] <-- was found
+19:18:08.328  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //input[@placeholder='Name']
+19:18:08.335  INFO  manager.MyListener - 'The element with locator -->By.xpath: //input[@placeholder='Name'] <-- was found
+19:18:08.443  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //input[@placeholder='Last Name']
+19:18:08.450  INFO  manager.MyListener - 'The element with locator -->By.xpath: //input[@placeholder='Last Name'] <-- was found
+19:18:08.530  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //input[@placeholder='Phone']
+19:18:08.538  INFO  manager.MyListener - 'The element with locator -->By.xpath: //input[@placeholder='Phone'] <-- was found
+19:18:08.615  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //input[@placeholder='email']
+19:18:08.623  INFO  manager.MyListener - 'The element with locator -->By.xpath: //input[@placeholder='email'] <-- was found
+19:18:08.707  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //input[@placeholder='Address']
+19:18:08.714  INFO  manager.MyListener - 'The element with locator -->By.xpath: //input[@placeholder='Address'] <-- was found
+19:18:08.792  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //input[@placeholder='description']
+19:18:08.799  INFO  manager.MyListener - 'The element with locator -->By.xpath: //input[@placeholder='description'] <-- was found
+19:18:08.880  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //b[text()='Save']
+19:18:08.887  INFO  manager.MyListener - 'The element with locator -->By.xpath: //b[text()='Save'] <-- was found
+19:18:08.915  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:18:09.056  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:18:09.056  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: a[href='/add']
+19:18:09.063  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: a[href='/add'] <-- was found
+19:18:09.083  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //input[@placeholder='Name']
+19:18:09.095  INFO  manager.MyListener - 'The element with locator -->By.xpath: //input[@placeholder='Name'] <-- was found
+19:18:09.199  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //input[@placeholder='Last Name']
+19:18:09.206  INFO  manager.MyListener - 'The element with locator -->By.xpath: //input[@placeholder='Last Name'] <-- was found
+19:18:09.280  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //input[@placeholder='Phone']
+19:18:09.290  INFO  manager.MyListener - 'The element with locator -->By.xpath: //input[@placeholder='Phone'] <-- was found
+19:18:09.376  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //input[@placeholder='email']
+19:18:09.385  INFO  manager.MyListener - 'The element with locator -->By.xpath: //input[@placeholder='email'] <-- was found
+19:18:09.467  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //input[@placeholder='Address']
+19:18:09.474  INFO  manager.MyListener - 'The element with locator -->By.xpath: //input[@placeholder='Address'] <-- was found
+19:18:09.549  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //input[@placeholder='description']
+19:18:09.556  INFO  manager.MyListener - 'The element with locator -->By.xpath: //input[@placeholder='description'] <-- was found
+19:18:09.635  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //b[text()='Save']
+19:18:09.642  INFO  manager.MyListener - 'The element with locator -->By.xpath: //b[text()='Save'] <-- was found
+19:18:09.670  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:18:09.810  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:18:09.811  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: a[href='/add']
+19:18:09.817  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: a[href='/add'] <-- was found
+19:18:09.839  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //input[@placeholder='Name']
+19:18:09.847  INFO  manager.MyListener - 'The element with locator -->By.xpath: //input[@placeholder='Name'] <-- was found
+19:18:09.949  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //input[@placeholder='Last Name']
+19:18:09.957  INFO  manager.MyListener - 'The element with locator -->By.xpath: //input[@placeholder='Last Name'] <-- was found
+19:18:10.039  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //input[@placeholder='Phone']
+19:18:10.046  INFO  manager.MyListener - 'The element with locator -->By.xpath: //input[@placeholder='Phone'] <-- was found
+19:18:10.129  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //input[@placeholder='email']
+19:18:10.138  INFO  manager.MyListener - 'The element with locator -->By.xpath: //input[@placeholder='email'] <-- was found
+19:18:10.231  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //input[@placeholder='Address']
+19:18:10.239  INFO  manager.MyListener - 'The element with locator -->By.xpath: //input[@placeholder='Address'] <-- was found
+19:18:10.314  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //input[@placeholder='description']
+19:18:10.321  INFO  manager.MyListener - 'The element with locator -->By.xpath: //input[@placeholder='description'] <-- was found
+19:18:10.400  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //b[text()='Save']
+19:18:10.407  INFO  manager.MyListener - 'The element with locator -->By.xpath: //b[text()='Save'] <-- was found
+19:18:10.435  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:18:10.574  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:18:10.574  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:18:10.581  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:18:10.582  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:18:10.589  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:18:10.589  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:18:10.599  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+19:18:10.628  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //button[text()='Remove']
+19:18:10.638  INFO  manager.MyListener - 'The element with locator -->By.xpath: //button[text()='Remove'] <-- was found
+19:18:11.666  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+19:18:11.675  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found

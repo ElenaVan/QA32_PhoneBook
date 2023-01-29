@@ -1,0 +1,33 @@
+16:33:40.359  INFO  manager.ApplicationManager - Tests start with ChromeDriver
+16:33:41.029  INFO  manager.ApplicationManager - The link is --> https://telranedu.web.app/home
+16:33:41.057  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //button[text()='Sign Out']
+16:33:46.073  INFO  manager.MyListener - 'The element with locator -->By.xpath: //button[text()='Sign Out'] <-- was found
+16:33:46.081  INFO  tests.TestBase - Test start with email: miomi@gmail.com and password: Mmiomi12345$
+16:33:46.081  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: a[href='/login']
+16:33:46.094  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: a[href='/login'] <-- was found
+16:33:46.147  INFO  manager.MyListener - 'Start find ' element -->By.xpath: (//input[@placeholder='Email'])[1]
+16:33:46.159  INFO  manager.MyListener - 'The element with locator -->By.xpath: (//input[@placeholder='Email'])[1] <-- was found
+16:33:46.344  INFO  manager.MyListener - 'Start find ' element -->By.xpath: (//input[@placeholder='Password'])[1]
+16:33:46.355  INFO  manager.MyListener - 'The element with locator -->By.xpath: (//input[@placeholder='Password'])[1] <-- was found
+16:33:46.443  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: button[name='login']
+16:33:46.455  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: button[name='login'] <-- was found
+16:33:46.514  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //button[normalize-space()='Sign Out']
+16:33:47.157  INFO  manager.MyListener - 'The element with locator -->By.xpath: //button[normalize-space()='Sign Out'] <-- was found
+16:33:47.161  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //button[text()='Sign Out']
+16:33:47.189  INFO  manager.MyListener - We have a 'throwable' -->unexpected alert open: {Alert text : Wrong email or password}
+  (Session info: chrome=109.0.5414.119): Wrong email or password
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-Irina', ip: '2600:4040:5f1e:f100:683b:ddc3:64fc:7d70%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6.2', java.version: '11.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.119, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: /var/folders/gy/c09sdzsx70q...}, goog:chromeOptions: {debuggerAddress: localhost:49626}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a173c46681e99deaebd41cd221e5e63d
+*** Element info: {Using=xpath, value=//button[text()='Sign Out']}
+16:33:47.190  INFO  manager.MyListener - We have a 'throwable' -->org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Wrong email or password}
+  (Session info: chrome=109.0.5414.119): Wrong email or password
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-Irina', ip: '2600:4040:5f1e:f100:683b:ddc3:64fc:7d70%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6.2', java.version: '11.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.119, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: /var/folders/gy/c09sdzsx70q...}, goog:chromeOptions: {debuggerAddress: localhost:49626}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a173c46681e99deaebd41cd221e5e63d
+*** Element info: {Using=xpath, value=//button[text()='Sign Out']}
+16:33:48.414  INFO  manager.MyListener - This link to screen with problem --> src/test/resources/screenshots/screen-2027.png

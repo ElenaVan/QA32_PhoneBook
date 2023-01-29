@@ -1,0 +1,12 @@
+18:03:35.306  INFO  manager.ApplicationManager - Tests start with ChromeDriver
+18:03:35.969  INFO  manager.ApplicationManager - The link is --> https://telranedu.web.app/home
+18:03:35.994  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //button[text()='Sign Out']
+18:03:41.012  INFO  manager.MyListener - 'The element with locator -->By.xpath: //button[text()='Sign Out'] <-- was found
+18:03:41.013  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: a[href='/login']
+18:03:41.026  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: a[href='/login'] <-- was found
+18:03:41.080  INFO  manager.MyListener - 'Start find ' element -->By.xpath: (//input[@placeholder='Email'])[1]
+18:03:41.093  INFO  manager.MyListener - 'The element with locator -->By.xpath: (//input[@placeholder='Email'])[1] <-- was found
+18:03:41.277  INFO  manager.MyListener - 'Start find ' element -->By.xpath: (//input[@placeholder='Password'])[1]
+18:03:41.289  INFO  manager.MyListener - 'The element with locator -->By.xpath: (//input[@placeholder='Password'])[1] <-- was found
+18:03:41.375  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: button[name='login']
+18:03:41.388  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: button[name='login'] <-- was found

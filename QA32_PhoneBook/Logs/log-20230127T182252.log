@@ -1,0 +1,18 @@
+18:22:54.318  INFO  manager.ApplicationManager - Tests start with ChromeDriver
+18:22:54.995  INFO  manager.ApplicationManager - The link is --> https://telranedu.web.app/home
+18:22:55.017  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //button[text()='Sign Out']
+18:23:00.039  INFO  manager.MyListener - 'The element with locator -->By.xpath: //button[text()='Sign Out'] <-- was found
+18:23:00.040  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: a[href='/login']
+18:23:00.053  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: a[href='/login'] <-- was found
+18:23:00.106  INFO  manager.MyListener - 'Start find ' element -->By.xpath: (//input[@placeholder='Email'])[1]
+18:23:00.119  INFO  manager.MyListener - 'The element with locator -->By.xpath: (//input[@placeholder='Email'])[1] <-- was found
+18:23:00.308  INFO  manager.MyListener - 'Start find ' element -->By.xpath: (//input[@placeholder='Password'])[1]
+18:23:00.321  INFO  manager.MyListener - 'The element with locator -->By.xpath: (//input[@placeholder='Password'])[1] <-- was found
+18:23:00.404  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: button[name='login']
+18:23:00.415  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: button[name='login'] <-- was found
+18:23:00.449  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: contact-item_card__2SOIM
+18:23:05.514  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: contact-item_card__2SOIM <-- was found
+18:23:05.514  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: contact-item_card__2SOIM
+18:23:10.551  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: contact-item_card__2SOIM <-- was found
+18:23:10.551  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: contact-item_card__2SOIM
+18:23:15.596  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: contact-item_card__2SOIM <-- was found

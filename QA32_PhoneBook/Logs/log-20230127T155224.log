@@ -1,0 +1,68 @@
+15:52:26.422  INFO  manager.ApplicationManager - Tests start with ChromeDriver
+15:52:27.062  INFO  manager.ApplicationManager - The link is --> https://telranedu.web.app/home
+15:52:27.089  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //button[text()='Sign Out']
+15:52:32.144  INFO  manager.MyListener - 'The element with locator -->By.xpath: //button[text()='Sign Out'] <-- was found
+15:52:32.151  INFO  tests.TestBase - Test start with email: miomi@gmail.com and password: Mmiomi12345$
+15:52:32.152  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: a[href='/login']
+15:52:32.165  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: a[href='/login'] <-- was found
+15:52:32.219  INFO  manager.MyListener - 'Start find ' element -->By.xpath: (//input[@placeholder='Email'])[1]
+15:52:32.232  INFO  manager.MyListener - 'The element with locator -->By.xpath: (//input[@placeholder='Email'])[1] <-- was found
+15:52:32.414  INFO  manager.MyListener - 'Start find ' element -->By.xpath: (//input[@placeholder='Password'])[1]
+15:52:32.429  INFO  manager.MyListener - 'The element with locator -->By.xpath: (//input[@placeholder='Password'])[1] <-- was found
+15:52:32.512  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: button[name='login']
+15:52:32.523  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: button[name='login'] <-- was found
+15:52:32.555  INFO  tests.TestBase - Test passed
+15:52:32.558  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //button[text()='Sign Out']
+15:52:33.024  INFO  manager.MyListener - 'The element with locator -->By.xpath: //button[text()='Sign Out'] <-- was found
+15:52:33.025  INFO  tests.TestBase - Test start with email: noa@gmail.com and password: Nnoa12345$
+15:52:33.025  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: a[href='/login']
+15:52:33.047  INFO  manager.MyListener - We have a 'throwable' -->unexpected alert open: {Alert text : Wrong email or password}
+  (Session info: chrome=109.0.5414.119): Wrong email or password
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-Irina', ip: '2600:4040:5f1e:f100:6468:b93b:ea88:60b2%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6.2', java.version: '11.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.119, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: /var/folders/gy/c09sdzsx70q...}, goog:chromeOptions: {debuggerAddress: localhost:56838}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8dced04b725b2ce2a07590f42407e961
+*** Element info: {Using=css selector, value=a[href='/login']}
+15:52:33.048  INFO  manager.MyListener - We have a 'throwable' -->org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Wrong email or password}
+  (Session info: chrome=109.0.5414.119): Wrong email or password
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-Irina', ip: '2600:4040:5f1e:f100:6468:b93b:ea88:60b2%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6.2', java.version: '11.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.119, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: /var/folders/gy/c09sdzsx70q...}, goog:chromeOptions: {debuggerAddress: localhost:56838}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8dced04b725b2ce2a07590f42407e961
+*** Element info: {Using=css selector, value=a[href='/login']}
+15:52:34.259  INFO  manager.MyListener - This link to screen with problem --> src/test/resources/screenshots/screen-3153.png
+15:52:34.260  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //button[text()='Sign Out']
+15:52:39.315  INFO  manager.MyListener - 'The element with locator -->By.xpath: //button[text()='Sign Out'] <-- was found
+15:52:39.332  INFO  tests.TestBase - Test start with email: zoa@gmail.com and password: Zoa12345$
+15:52:39.333  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: a[href='/login']
+15:52:39.361  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: a[href='/login'] <-- was found
+15:52:39.432  INFO  manager.MyListener - 'Start find ' element -->By.xpath: (//input[@placeholder='Email'])[1]
+15:52:39.442  INFO  manager.MyListener - 'The element with locator -->By.xpath: (//input[@placeholder='Email'])[1] <-- was found
+15:52:39.637  INFO  manager.MyListener - 'Start find ' element -->By.xpath: (//input[@placeholder='Password'])[1]
+15:52:39.645  INFO  manager.MyListener - 'The element with locator -->By.xpath: (//input[@placeholder='Password'])[1] <-- was found
+15:52:39.792  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: button[name='login']
+15:52:39.812  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: button[name='login'] <-- was found
+15:52:39.853  INFO  tests.TestBase - Test passed
+15:52:39.868  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //button[text()='Sign Out']
+15:52:40.198  INFO  manager.MyListener - 'The element with locator -->By.xpath: //button[text()='Sign Out'] <-- was found
+15:52:40.199  INFO  tests.TestBase - Test start with email: wick34@gmail.com and password: Wick12345$
+15:52:40.199  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: a[href='/login']
+15:52:40.216  INFO  manager.MyListener - We have a 'throwable' -->unexpected alert open: {Alert text : Wrong email or password}
+  (Session info: chrome=109.0.5414.119): Wrong email or password
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-Irina', ip: '2600:4040:5f1e:f100:6468:b93b:ea88:60b2%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6.2', java.version: '11.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.119, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: /var/folders/gy/c09sdzsx70q...}, goog:chromeOptions: {debuggerAddress: localhost:56838}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8dced04b725b2ce2a07590f42407e961
+*** Element info: {Using=css selector, value=a[href='/login']}
+15:52:40.216  INFO  manager.MyListener - We have a 'throwable' -->org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Wrong email or password}
+  (Session info: chrome=109.0.5414.119): Wrong email or password
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-Irina', ip: '2600:4040:5f1e:f100:6468:b93b:ea88:60b2%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6.2', java.version: '11.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.119, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: /var/folders/gy/c09sdzsx70q...}, goog:chromeOptions: {debuggerAddress: localhost:56838}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8dced04b725b2ce2a07590f42407e961
+*** Element info: {Using=css selector, value=a[href='/login']}
+15:52:41.404  INFO  manager.MyListener - This link to screen with problem --> src/test/resources/screenshots/screen-3160.png

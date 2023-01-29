@@ -1,0 +1,37 @@
+19:08:26.161  INFO  manager.ApplicationManager - Tests start with FireFoxDriver
+19:08:26.925  INFO  manager.ApplicationManager - The link is --> https://telranedu.web.app/home
+19:08:26.967  INFO  tests.TestBase - Start test--->loginSuccess
+19:08:26.969  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //button[text()='Sign Out']
+19:08:31.993  INFO  manager.MyListener - 'The element with locator -->By.xpath: //button[text()='Sign Out'] <-- was found
+19:08:32.000  INFO  tests.TestBase - Test start with email: miomi@gmail.com and password: Mmiomi12345$
+19:08:32.001  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: a[href='/login']
+19:08:32.010  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: a[href='/login'] <-- was found
+19:08:32.261  INFO  manager.MyListener - 'Start find ' element -->By.xpath: (//input[@placeholder='Email'])[1]
+19:08:32.304  INFO  manager.MyListener - 'The element with locator -->By.xpath: (//input[@placeholder='Email'])[1] <-- was found
+19:08:32.615  INFO  manager.MyListener - 'Start find ' element -->By.xpath: (//input[@placeholder='Password'])[1]
+19:08:32.620  INFO  manager.MyListener - 'The element with locator -->By.xpath: (//input[@placeholder='Password'])[1] <-- was found
+19:08:32.868  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: button[name='login']
+19:08:32.874  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: button[name='login'] <-- was found
+19:08:33.090  INFO  tests.TestBase - Test passed
+19:08:33.094  INFO  tests.TestBase - Start test--->loginSuccess
+19:08:33.095  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //button[text()='Sign Out']
+19:08:33.421  INFO  manager.MyListener - We have a 'throwable' -->Failed to interpret value as array
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-Irina', ip: '2600:4040:5f1e:f100:e1a6:9ccc:371b:1f9b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6.2', java.version: '11.0.17'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 94.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20211103134640, moz:geckodriverVersion: 0.32.0, moz:headless: false, moz:processID: 58478, moz:profile: /var/folders/gy/c09sdzsx70q..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 21.6.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6d7724da-8e41-374b-ae4e-0a43b1826f7e
+*** Element info: {Using=xpath, value=//button[text()='Sign Out']}
+19:08:33.422  INFO  manager.MyListener - We have a 'throwable' -->org.openqa.selenium.WebDriverException: Failed to interpret value as array
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-Irina', ip: '2600:4040:5f1e:f100:e1a6:9ccc:371b:1f9b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6.2', java.version: '11.0.17'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 94.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20211103134640, moz:geckodriverVersion: 0.32.0, moz:headless: false, moz:processID: 58478, moz:profile: /var/folders/gy/c09sdzsx70q..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 21.6.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6d7724da-8e41-374b-ae4e-0a43b1826f7e
+*** Element info: {Using=xpath, value=//button[text()='Sign Out']}
+19:08:33.482  INFO  tests.TestBase - Start test--->loginSuccess
+19:08:33.482  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //button[text()='Sign Out']
+19:08:38.494  INFO  manager.MyListener - 'The element with locator -->By.xpath: //button[text()='Sign Out'] <-- was found
+19:08:38.496  INFO  tests.TestBase - Start test--->loginSuccess
+19:08:38.497  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //button[text()='Sign Out']
+19:08:43.506  INFO  manager.MyListener - 'The element with locator -->By.xpath: //button[text()='Sign Out'] <-- was found

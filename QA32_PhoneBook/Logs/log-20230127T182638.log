@@ -1,0 +1,22 @@
+18:26:41.145  INFO  manager.ApplicationManager - Tests start with ChromeDriver
+18:26:41.812  INFO  manager.ApplicationManager - The link is --> https://telranedu.web.app/home
+18:26:41.835  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //button[text()='Sign Out']
+18:26:46.872  INFO  manager.MyListener - 'The element with locator -->By.xpath: //button[text()='Sign Out'] <-- was found
+18:26:46.873  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: a[href='/login']
+18:26:46.885  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: a[href='/login'] <-- was found
+18:26:46.939  INFO  manager.MyListener - 'Start find ' element -->By.xpath: (//input[@placeholder='Email'])[1]
+18:26:46.951  INFO  manager.MyListener - 'The element with locator -->By.xpath: (//input[@placeholder='Email'])[1] <-- was found
+18:26:47.140  INFO  manager.MyListener - 'Start find ' element -->By.xpath: (//input[@placeholder='Password'])[1]
+18:26:47.152  INFO  manager.MyListener - 'The element with locator -->By.xpath: (//input[@placeholder='Password'])[1] <-- was found
+18:26:47.236  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: button[name='login']
+18:26:47.248  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: button[name='login'] <-- was found
+18:26:47.311  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+18:26:47.706  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+18:26:47.706  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+18:26:47.715  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+18:26:47.716  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+18:26:47.727  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found
+18:26:47.759  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //button[text()='Remove']
+18:26:47.771  INFO  manager.MyListener - 'The element with locator -->By.xpath: //button[text()='Remove'] <-- was found
+18:26:48.802  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: .contact-item_card__2SOIM
+18:26:48.813  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: .contact-item_card__2SOIM <-- was found

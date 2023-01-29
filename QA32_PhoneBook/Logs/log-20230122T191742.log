@@ -1,0 +1,3 @@
+19:17:44.763  INFO  manager.ApplicationManager - Tests start with ChromeDriver
+19:17:45.434  INFO  manager.ApplicationManager - The link is --> https://telranedu.web.app/home
+19:17:50.883  INFO  tests.TestBase - miomi1070@gmail.com

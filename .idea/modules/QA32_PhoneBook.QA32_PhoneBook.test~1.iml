@@ -4,5 +4,6 @@
     <content url="file://$MODULE_DIR$/../../QA32_PhoneBook/build/generated/sources/annotationProcessor/java/test">
       <sourceFolder url="file://$MODULE_DIR$/../../QA32_PhoneBook/build/generated/sources/annotationProcessor/java/test" isTestSource="true" generated="true" />
     </content>
+    <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

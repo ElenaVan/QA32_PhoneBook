@@ -30,7 +30,8 @@ public class HelperUser extends HelperBase{
         click(By.cssSelector("button[name='registration']"));
     }
     public boolean isLoginRegistrationSucces(){
-        return isElementPresent(By.xpath("//button[normalize-space()='Sign Out']"));
+
+        return isElementPresent(By.xpath("//button[text()='Sign Out']"));
     }
 
     public boolean isSignOutPresent() {

@@ -1,0 +1,26 @@
+15:36:02.341  INFO  manager.ApplicationManager - Tests start with ChromeDriver
+15:36:03.012  INFO  manager.ApplicationManager - The link is --> https://telranedu.web.app/home
+15:36:03.034  INFO  manager.MyListener - 'Start find ' element -->By.xpath: //button[text()='Sign Out']
+15:36:08.050  INFO  manager.MyListener - 'The element with locator -->By.xpath: //button[text()='Sign Out'] <-- was found
+15:36:08.052  INFO  manager.MyListener - 'Start find ' element -->By.cssSelector: a[href='/login']
+15:36:08.064  INFO  manager.MyListener - 'The element with locator -->By.cssSelector: a[href='/login'] <-- was found
+15:36:08.119  INFO  manager.MyListener - 'Start find ' element -->By.xpath: (//input[@placeholder='Emai'])[1]
+15:36:13.195  INFO  manager.MyListener - We have a 'throwable' -->no such element: Unable to locate element: {"method":"xpath","selector":"(//input[@placeholder='Emai'])[1]"}
+  (Session info: chrome=109.0.5414.119)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-Irina', ip: '2600:4040:5f1e:f100:683b:ddc3:64fc:7d70%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6.2', java.version: '11.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.119, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: /var/folders/gy/c09sdzsx70q...}, goog:chromeOptions: {debuggerAddress: localhost:62412}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 40a8d6c8cb60d8c96973483429f0437e
+*** Element info: {Using=xpath, value=(//input[@placeholder='Emai'])[1]}
+15:36:13.196  INFO  manager.MyListener - We have a 'throwable' -->org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//input[@placeholder='Emai'])[1]"}
+  (Session info: chrome=109.0.5414.119)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-Irina', ip: '2600:4040:5f1e:f100:683b:ddc3:64fc:7d70%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6.2', java.version: '11.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.119, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: /var/folders/gy/c09sdzsx70q...}, goog:chromeOptions: {debuggerAddress: localhost:62412}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 40a8d6c8cb60d8c96973483429f0437e
+*** Element info: {Using=xpath, value=(//input[@placeholder='Emai'])[1]}
+15:36:14.268  INFO  manager.MyListener - This link to screen with problem --> src/test/resources/screenshots/screen-"+index+".png

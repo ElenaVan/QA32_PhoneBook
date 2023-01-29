@@ -1,0 +1,6 @@
+2398 [Test worker] INFO  manager.ApplicationManager - Tests start with ChromeDriver
+3047 [Test worker] INFO  manager.ApplicationManager - The link is --> https://telranedu.web.app/home
+8111 [Test worker] INFO  tests.TestBase - Test start with email: 'miomi@gmail.com' and password: 'Mmiomi123$'
+19:06:05.262  INFO  manager.ApplicationManager - Tests start with ChromeDriver
+19:06:05.926  INFO  manager.ApplicationManager - The link is --> https://telranedu.web.app/home
+19:06:10.972  INFO  tests.TestBase - Test start with email: 'miomi@gmail.com' and password: 'Mmiomi123$'
